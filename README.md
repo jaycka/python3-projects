@@ -12,4 +12,8 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 
 4. Turtle-race: 6 turtles in rainbow colors will race to final at random speed. Type a rainbow color to bet on it!  
 [Try it out](https://replit.com/@jaycka/turtle-race?v=1)  
-![Turtle-race](https://github.com/jaycka/python3-projects/blob/main/img/turtle-race.gif?raw=true)
+![Turtle-race](https://github.com/jaycka/python3-projects/blob/main/img/turtle-race.gif?raw=true)  
+
+5. Snake-game: Classic snake game written in python3, use Up, Down, Left, Right arrow key to control the snake eating food, game over if touch wall or its tails!  
+[Try it out](https://replit.com/@jaycka/snake?v=1)  
+![Snake-game](https://github.com/jaycka/python3-projects/blob/main/img/snake.gif?raw=true)  
