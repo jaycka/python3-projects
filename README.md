@@ -21,3 +21,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 6. Pong-game: Classic pong game written in python3 using turtle module, use w and s to control left paddle, up and down arrow key to control right paddle, ball speed increases with each successful paddle bounce.  
 [Try it out](https://replit.com/@jaycka/pong-game-in-python3?v=1)  
 ![Pong-game](https://github.com/jaycka/python3-projects/blob/main/img/pong-game.gif?raw=true)
+
+7. Turtle-crossing: Classic turtle crossing game written in python3 using turtle module, use Up arrow to cross the busy street without getting hit by the car!  
+[Try it out](https://replit.com/@jaycka/turtle-crossing?v=1)  
+![Turtle-crossing](https://github.com/jaycka/python3-projects/blob/main/img/turtle-crossing.gif?raw=true)
