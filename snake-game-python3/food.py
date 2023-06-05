@@ -1,6 +1,7 @@
 from turtle import Turtle
 import random
 
+COLORS = ["red", "orange", "yellow", "green", "blue", "purple"]
 
 class Food(Turtle):
     def __init__(self):
@@ -14,4 +15,5 @@ class Food(Turtle):
 
     def refresh(self):
         random_x, random_y = random.randint(-280, 280), random.randint(-280, 280)
+        self.color(random.choice(COLORS))
         self.goto(random_x, random_y)
