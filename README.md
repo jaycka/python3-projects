@@ -25,3 +25,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 7. Turtle-crossing: Classic turtle crossing game written in python3 using turtle module, use Up arrow to cross the busy street without getting hit by the car!  
 [Try it out](https://replit.com/@jaycka/turtle-crossing?v=1)  
 ![Turtle-crossing](https://github.com/jaycka/python3-projects/blob/main/img/turtle-crossing.gif?raw=true)
+
+8. Guess-US-States: An educational game of guessing all 50 U.S. states by typing state name corretly(case insensitive)!  Type 'Exit' to exit and log the missing states for learning purposes!  
+[Try it out](https://replit.com/@jaycka/us-states-game?v=1)  
+![Guess-us-state](https://github.com/jaycka/python3-projects/blob/main/img/us-states-guess.gif?raw=true)
