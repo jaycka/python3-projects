@@ -37,3 +37,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 10. Pomotoro-timer: A python3 implementation for pomodoro technique timer (25min work- 5min break-> repeat 4 cycles -> 20min break), press Start to start the timer and press Reset to reset the timer, 'Work' or 'Break' will pop up corresponding to current state.  
 [Try it out](https://replit.com/@jaycka/pomodoro-technique-timer?v=1)  
 ![Pomotoro-timer](https://github.com/jaycka/python3-projects/blob/main/img/pomodora-technique-timer.gif?raw=true)  
+
+11. Password-manager: A password manager that stores credentials locally and can generate strong, random password!  
+[Try it out](https://replit.com/@jaycka/password-manager?v=1)  
+![Password-manager](https://github.com/jaycka/python3-projects/blob/main/img/password-manager.gif?raw=true)  
