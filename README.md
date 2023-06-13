@@ -41,3 +41,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 11. Password-manager: A password manager that stores credentials locally and can generate strong, random password!  
 [Try it out](https://replit.com/@jaycka/password-manager?v=1)  
 ![Password-manager](https://github.com/jaycka/python3-projects/blob/main/img/password-manager.gif?raw=true)  
+
+12. Flash-card: A flash card program written in python3 using `tkinter` module. It will read from local `words_to_learn.csv` file that contains all the words you left from previous study, if no such file, it will read default `french_words.csv` and get your study started. The program will display french word first for 3 seconds, after it will turn back, you can press check or cross button to let the program know if you knew this word already or not, the program will remember.  
+[Try it out](https://replit.com/@jaycka/Flash-cards?v=1)  
+![Flash-cards](https://github.com/jaycka/python3-projects/blob/main/img/flash-card.gif?raw=true)
