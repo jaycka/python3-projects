@@ -48,4 +48,8 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 
 12. Kanye-quotes-generator: A Kanye quotes machine, written in Python3 using `requests` module, which will generate some real deep quotes from Kanye every time kanye button was pressed! lol  
 [Try it out](https://replit.com/@jaycka/Kanye-quotes?v=1)  
-![kanye-quotes](https://github.com/jaycka/python3-projects/blob/main/img/quotes.gif?raw=true)
+![kanye-quotes](https://github.com/jaycka/python3-projects/blob/main/img/quotes.gif?raw=true)  
+
+13. Quizzler-app: Upgraded version of previous command line based quiz app, using opentdb API to pull questions. Modify`category` and `amount` to fit your own needs and test your knowledge!  
+[Try it out](https://replit.com/@jaycka/quizzler-app?v=1)  
+![Quizzler-app](https://github.com/jaycka/python3-projects/blob/main/img/quizzler-app.gif?raw=true)  
