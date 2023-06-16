@@ -53,3 +53,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 13. Quizzler-app: Upgraded version of previous command line based quiz app, using opentdb API to pull questions. Modify`category` and `amount` to fit your own needs and test your knowledge!  
 [Try it out](https://replit.com/@jaycka/quizzler-app?v=1)  
 ![Quizzler-app](https://github.com/jaycka/python3-projects/blob/main/img/quizzler-app.gif?raw=true)  
+
+14. Exercise-tracker: Track your exercises by naturally type in your exercises info using the free NLP api provided by Nutritionix and Google sheet manipulation api provided by Sheety!  
+[Try it out](https://replit.com/@jaycka/exercise-tracker?v=1)  
+![Exercise-tracker](https://github.com/jaycka/python3-projects/blob/main/img/exercise-tracker.gif?raw=true)  
