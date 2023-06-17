@@ -57,3 +57,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 14. Exercise-tracker: Track your exercises by naturally type in your exercises info using the free NLP api provided by Nutritionix and Google sheet manipulation api provided by Sheety!  
 [Try it out](https://replit.com/@jaycka/exercise-tracker?v=1)  
 ![Exercise-tracker](https://github.com/jaycka/python3-projects/blob/main/img/exercise-tracker.gif?raw=true)  
+
+15. first-html: Learning the basic elements of html5, heading, paragraph, horizontal rule, break, order/unorder list, anchor, image, etc.  
+[Try it out](https://replit.com/@jaycka/first-html?v=1)  
+![first-html](https://github.com/jaycka/python3-projects/blob/main/img/first-html.gif?raw=true)  
