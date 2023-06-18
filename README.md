@@ -65,3 +65,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 16. Top-100-movies-scraping: a python3 script that scrapes the top 100 movies from EmpireOnline Top 100 movies of all-time.   
 [Try it out](https://replit.com/@jaycka/top100-movies-scraper?v=1)  
 ![top-100-scraper](https://github.com/jaycka/python3-projects/blob/main/img/top100-movies-scrape.gif?raw=true)  
+
+17. Spotify-time-machine: Travel back to time via spotify music throwback! A playlist of top100 hits(if available) will be automatically created at your choice of time!  
+[Try it out](https://replit.com/@jaycka/Spotify-time-machine?v=1)  
+![spotify-time-machine](https://github.com/jaycka/python3-projects/blob/main/img/spotify-time-machine.gif?raw=true)  
