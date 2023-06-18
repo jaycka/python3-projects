@@ -61,3 +61,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 15. first-html: Learning the basic elements of html5, heading, paragraph, horizontal rule, break, order/unorder list, anchor, image, etc.  
 [Try it out](https://replit.com/@jaycka/first-html?v=1)  
 ![first-html](https://github.com/jaycka/python3-projects/blob/main/img/first-html.gif?raw=true)  
+
+16. Top-100-movies-scraping: a python3 script that scrapes the top 100 movies from EmpireOnline Top 100 movies of all-time.   
+[Try it out](https://replit.com/@jaycka/top100-movies-scraper?v=1)  
+![top-100-scraper](https://github.com/jaycka/python3-projects/blob/main/img/top100-movies-scrape.gif?raw=true)  
