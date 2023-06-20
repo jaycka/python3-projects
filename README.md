@@ -69,3 +69,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 17. Spotify-time-machine: Travel back to time via spotify music throwback! A playlist of top100 hits(if available) will be automatically created at your choice of time!  
 [Try it out](https://replit.com/@jaycka/Spotify-time-machine?v=1)  
 ![spotify-time-machine](https://github.com/jaycka/python3-projects/blob/main/img/spotify-time-machine.gif?raw=true)  
+
+18. Cookie-clicker-game-bot: A clicker bot of the popular cookie game,  it constantly clicks on the cookie and buy the most expensive available item every 5 seconds to boost the cookie per second, play it on: [Cookie clicker game](http://orteil.dashnet.org/experiments/cookie/), to use the bot, install webdriver and replace its path in main.py.  
+[Try it out](https://replit.com/@jaycka/cookie-clicker?v=1)  
+![Cookie-clicker](https://github.com/jaycka/python3-projects/blob/main/img/cookie-clicker.gif?raw=true)
