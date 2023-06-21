@@ -63,9 +63,9 @@ class InstaFollower:
             time.sleep(2)
 
 
-
-driver = InstaFollower(path=CHROME_DRIVER_PATH)
-driver.login()
-driver.find_followers(url=instagram_follower_page)
-driver.follow()
-driver.driver.quit()
+if __name__ =='__main__':
+    driver = InstaFollower(path=CHROME_DRIVER_PATH)
+    driver.login()
+    driver.find_followers(url=instagram_follower_page)
+    driver.follow()
+    driver.driver.quit()
