@@ -77,3 +77,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 19. Comcast-complain-bot: A comcast complaint bot that can will automatically check current download/upload speed via speedtest and tweet to complain! A good way of learning `selenium` module.
 [Try it out](https://replit.com/@jaycka/comcast-complaint-bot?v=1)  
 <img src='https://github.com/jaycka/python3-projects/blob/main/img/comcast-complaint-bot.png?raw=true' alt='comcast-complaint-bot' width='600'>  
+
+20. Instagram-follower-bot: An Instagram bot that will automatically follow the followers of target account, and skip anyone which you already followed! Import your own account credential to environmental variables and input target account's name at the start when you run the script.  
+[Try it out](https://replit.com/@jaycka/instagram-follower-bot?v=1)  
+![instagram-follower-bot](https://github.com/jaycka/python3-projects/blob/main/img/instagram-follower-bot.gif?raw=true)  
