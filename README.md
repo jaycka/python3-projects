@@ -81,3 +81,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 20. Instagram-follower-bot: An Instagram bot that will automatically follow the followers of target account, and skip anyone which you already followed! Import your own account credential to environmental variables and input target account's name at the start when you run the script.  
 [Try it out](https://replit.com/@jaycka/instagram-follower-bot?v=1)  
 ![instagram-follower-bot](https://github.com/jaycka/python3-projects/blob/main/img/instagram-follower-bot.gif?raw=true)  
+
+21. Higher-lower-flask-version: A web version of the classic higher or lower game using Flask framework, guess the number between 0 and 9 by changing number in the url like '0.0.0.0:5000/1'  
+[Try it out](https://replit.com/@jaycka/higher-lower-flask?v=1)  
+![higher-lower](https://github.com/jaycka/python3-projects/blob/main/img/higher-lower-flask.gif?raw=true)  
