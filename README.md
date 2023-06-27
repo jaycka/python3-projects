@@ -85,3 +85,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 21. Higher-lower-flask-version: A web version of the classic higher or lower game using Flask framework, guess the number between 0 and 9 by changing number in the url like '0.0.0.0:5000/1'  
 [Try it out](https://replit.com/@jaycka/higher-lower-flask?v=1)  
 ![higher-lower](https://github.com/jaycka/python3-projects/blob/main/img/higher-lower-flask.gif?raw=true)  
+
+22. Clean-blog: A blog website build with `Flask`+`Bootstrap`+`Jinja`.  
+[Try it out](https://replit.com/@jaycka/Blog-flask-Jinja-bootstrap?v=1)  
+![clean-blog](https://github.com/jaycka/python3-projects/blob/main/img/Blog-flask+bootstrap+jinja.gif?raw=true)  
