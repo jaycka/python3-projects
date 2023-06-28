@@ -1,0 +1,41 @@
+{% extends 'base.html' %}
+
+{% block title %}Library{% endblock %}
+
+{% block content %}
+    <h1 style="text-align: center; padding-top: 40px">My Library</h1>
+{% if books==[] %}
+    <p>Library is empty.</p>
+{% else %}
+    <div class="container" style="text-align:center; padding:20px">
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">No.</th>
+                    <th scope="col">Book Title</th>
+                    <th scope="col">Author</th>
+                    <th scope="col">Rating</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for book in books %}
+                    <tr>
+                        <th scope="row">{{book.id}}</th>
+                        <td>{{book.title}}</td>
+                        <td>{{book.author}}</td>
+                        <td>{{book.rating}}</td>
+                        <td><a class="btn btn-primary btn-sm" href="{{ url_for('edit', id=book.id) }}">Edit</a></td>
+                        <td><a class="btn btn-danger btn-sm" href="{{ url_for('delete_entry',method='POST', id=book.id) }}">Delete</a></td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+{% endif %}
+
+<div class="container" style="text-align:center">
+    <a class="btn btn-primary btn-sm" href="{{ url_for('add') }}">Add New Book</a>
+</div>
+{% endblock %}

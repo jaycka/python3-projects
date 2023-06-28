@@ -1,0 +1,11 @@
+{% extends 'base.html' %}
+{% from 'bootstrap5/form.html' import render_form %}
+
+{% block title %}Edit{% endblock %}
+{% block content %}
+<div class="container" style="text-align:center; padding-top: 40px">
+     <p> Book Name: {{ book.title }} </p>
+    <p> Current Rating: {{ book.rating }} </p>
+    {{ render_form(form) }}
+</div>
+{% endblock %}

@@ -1,0 +1,13 @@
+{% extends 'base.html' %}
+{% from 'bootstrap5/form.html' import render_form %}
+
+{% block title %} Add Book {% endblock %}
+{% block content %}
+        <div class="container" style="position:absolute; left: 33%; padding-top:40px">
+                <div class="row">
+                        <div class="col-sm-12 col-md-8" style="text-align:center">
+                                {{ render_form(form, novalidate=True) }}
+                        </div>
+                </div>
+        </div>
+{% endblock %}
