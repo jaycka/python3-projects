@@ -94,6 +94,6 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 [Try it out](https://replit.com/@jaycka/Coffee-and-Wifi?v=1)  
 ![Coffee-and-wifi](https://github.com/jaycka/python3-projects/blob/main/img/coffee-and-wifi.gif?raw=true)  
 
-24. Local-library-management: An online library management system built with Python Flask+ SQLAlchemy + Jinja + Bootstrap + HTML + CSS  
+24. Local-library-management: An online library management system built with `Flask`+ `SQLAlchemy` + `Jinja` + `Bootstrap` + `HTML` + `CSS`  
 [Try it out](https://replit.com/@jaycka/library?v=1)  
 ![library](https://github.com/jaycka/python3-projects/blob/main/img/library.gif?raw=true)  
