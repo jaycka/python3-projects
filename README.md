@@ -97,3 +97,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 24. Local-library-management: An online library management system built with `Flask`+ `SQLAlchemy` + `Jinja` + `Bootstrap` + `HTML` + `CSS`  
 [Try it out](https://replit.com/@jaycka/library?v=1)  
 ![library](https://github.com/jaycka/python3-projects/blob/main/img/library.gif?raw=true)  
+
+25. Top-10-Movies: A personal topN movies website which user can edit their top movies, it will pull movie data from TMDB via API. Build with Python `Flask`+`Flask-WTF`+`Jinaja` +`Flask-SQLAlchemy`+`Bootstrap-Flask`.  
+[Try it out](https://replit.com/@jaycka/TOP10-Movie?v=1)  
+![top10-movies](https://github.com/jaycka/python3-projects/blob/main/img/top-movies.gif?raw=true)  
