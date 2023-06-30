@@ -101,3 +101,8 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 25. Top-10-Movies: A personal topN movies website which user can edit their top movies, it will pull movie data from TMDB via API. Build with Python `Flask`+`Flask-WTF`+`Jinaja` +`Flask-SQLAlchemy`+`Bootstrap-Flask`.  
 [Try it out](https://replit.com/@jaycka/TOP10-Movie?v=1)  
 ![top10-movies](https://github.com/jaycka/python3-projects/blob/main/img/top-movies.gif?raw=true)  
+
+26. Cafe RESTful API: A RESTful API for cafe management, built with Flask+SQLAlchemy.  
+[Try it out](https://replit.com/@jaycka/RESTful-API-CAFEandWIFI?v=1)  
+[Documentation](https://documenter.getpostman.com/view/28267276/2s93zB5MTa)  
+![RESTful-API](https://github.com/jaycka/python3-projects/blob/main/img/RESTful-API.gif?raw=true)  
