@@ -106,3 +106,8 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 [Try it out](https://replit.com/@jaycka/RESTful-API-CAFEandWIFI?v=1)  
 [Documentation](https://documenter.getpostman.com/view/28267276/2s93zB5MTa)  
 ![RESTful-API](https://github.com/jaycka/python3-projects/blob/main/img/RESTful-API.gif?raw=true)  
+
+27. Restful-routing-clean-blog: An upgraded version of [22. Clean-blog](https://replit.com/@jaycka/Blog-flask-Jinja-bootstrap?v=1), adding `create`, `edit` and `delete` features using `RESTful routing`.  
+[Try it out](https://replit.com/@jaycka/Upgraded-Simple-Blog-RESTfulAPI?v=1)  
+![upgraded-clean-blog](https://github.com/jaycka/python3-projects/blob/main/img/restful-simple-blog.gif?raw=true)  
+
