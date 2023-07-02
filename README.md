@@ -54,7 +54,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 [Try it out](https://replit.com/@jaycka/quizzler-app?v=1)  
 ![Quizzler-app](https://github.com/jaycka/python3-projects/blob/main/img/quizzler-app.gif?raw=true)  
 
-14. Exercise-tracker: Track your exercises by naturally type in your exercises info using the free NLP api provided by Nutritionix and Google sheet manipulation api provided by Sheety!  
+14. Exercise-tracker: Track your exercises by naturally type in your exercises info using the free `NLP api `provided by Nutritionix and Google sheet manipulation api provided by Sheety!  
 [Try it out](https://replit.com/@jaycka/exercise-tracker?v=1)  
 ![Exercise-tracker](https://github.com/jaycka/python3-projects/blob/main/img/exercise-tracker.gif?raw=true)  
 
@@ -66,7 +66,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 [Try it out](https://replit.com/@jaycka/top100-movies-scraper?v=1)  
 ![top-100-scraper](https://github.com/jaycka/python3-projects/blob/main/img/top100-movies-scrape.gif?raw=true)  
 
-17. Spotify-time-machine: Travel back to time via spotify music throwback! A playlist of top100 hits(if available) will be automatically created at your choice of time!  
+17. Spotify-time-machine: Travel back to time via spotify music throwback! A playlist of top100 hits(if available) will be automatically created at your choice of time! 
 [Try it out](https://replit.com/@jaycka/Spotify-time-machine?v=1)  
 ![spotify-time-machine](https://github.com/jaycka/python3-projects/blob/main/img/spotify-time-machine.gif?raw=true)  
 
@@ -82,7 +82,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 [Try it out](https://replit.com/@jaycka/instagram-follower-bot?v=1)  
 ![instagram-follower-bot](https://github.com/jaycka/python3-projects/blob/main/img/instagram-follower-bot.gif?raw=true)  
 
-21. Higher-lower-flask-version: A web version of the classic higher or lower game using Flask framework, guess the number between 0 and 9 by changing number in the url like '0.0.0.0:5000/1'  
+21. Higher-lower-flask-version: A web version of the classic higher or lower game using `Flask` framework, guess the number between 0 and 9 by changing number in the url like '0.0.0.0:5000/1'  
 [Try it out](https://replit.com/@jaycka/higher-lower-flask?v=1)  
 ![higher-lower](https://github.com/jaycka/python3-projects/blob/main/img/higher-lower-flask.gif?raw=true)  
 
@@ -102,7 +102,7 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 [Try it out](https://replit.com/@jaycka/TOP10-Movie?v=1)  
 ![top10-movies](https://github.com/jaycka/python3-projects/blob/main/img/top-movies.gif?raw=true)  
 
-26. Cafe RESTful API: A RESTful API for cafe management, built with Flask+SQLAlchemy.  
+26. Cafe RESTful API: A RESTful API for cafe management, built with `Flask`+`SQLAlchemy`.  
 [Try it out](https://replit.com/@jaycka/RESTful-API-CAFEandWIFI?v=1)  
 [Documentation](https://documenter.getpostman.com/view/28267276/2s93zB5MTa)  
 ![RESTful-API](https://github.com/jaycka/python3-projects/blob/main/img/RESTful-API.gif?raw=true)  
