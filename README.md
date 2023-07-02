@@ -111,3 +111,6 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 [Try it out](https://replit.com/@jaycka/Upgraded-Simple-Blog-RESTfulAPI?v=1)  
 ![upgraded-clean-blog](https://github.com/jaycka/python3-projects/blob/main/img/restful-simple-blog.gif?raw=true)  
 
+28. Web-Auth-With-Flask: Web authentication under flask framework using `flask-login` module.  
+[Try it out](https://replit.com/@jaycka/web-auth-flask?v=1)  
+![web-auth-flask](https://github.com/jaycka/python3-projects/blob/main/img/web-auth-with-flask.gif?raw=true)  
