@@ -1,0 +1,71 @@
+{% include "header.html" %}
+{% from 'bootstrap5/form.html' import render_form %}
+
+
+
+<!-- Page Header -->
+<header class="masthead" style="background-image: url('{{post.img_url}}')">
+	<div class="overlay"></div>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-8 col-md-10 mx-auto">
+				<div class="post-heading">
+					<h1>{{post.title}}</h1>
+					<h2 class="subheading">{{post.subtitle}}</h2>
+					<span class="meta">Posted by
+              <a href="#">{{ post.author.name }}</a>
+              on {{post.date}}</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Post Content -->
+  <article>
+        <div class="container">
+              <div class="row">
+                    <div class="col-lg-8 col-md-10 mx-auto">
+                        <p>
+                            {{ post.body|safe }}
+                        </p>
+                        <hr>
+                        {% if current_user.id == 1 %}
+                        <div class="clearfix">
+                            <a class="btn btn-primary float-right" href="{{url_for('edit_post', post_id=post.id) }}">Edit Post</a>
+                        </div>
+                        {% endif %}
+                        {{ ckeditor.load() }}
+                        {{ ckeditor.config(name='comment') }}
+                        {{ render_form(form, novalidate=True, button_map={"submit": "primary"}) }}
+                    </div>
+
+
+
+                    <div style="margin-top: 20px;" class="col-lg-8 col-md-10 mx-auto comment">
+                        {% for comment in post.comment %}
+                            <ul style="list-style:None; padding:0px;" class="commentList">
+                                <li>
+                                    <div class="comment-container" style="display: grid; grid-template-rows:50px auto; grid-template-columns: 50px auto; gap:10px; align-items:center">
+                                        <div class="commenterImage">
+                                            <img style="border-radius:50%;" src="{{ comment.comment_author.email | gravatar }}"/>
+                                        </div>
+                                        <div class="commenterText" style="">
+                                            {{ comment.text|safe }}
+                                        </div>
+                                        <div class="commentName" style="text-align: center">
+                                        <span style="color:grey; font-size: 16px;" class="date sub-text">{{ comment.comment_author.name }}</span>
+                                        </div>
+                                    </div>
+                                </li>
+                            </ul>
+                        {% endfor %}
+                    </div>
+              </div>
+        </div>
+  </article>
+
+  <hr>
+
+
+{% include "footer.html" %}
