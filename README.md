@@ -114,3 +114,15 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 28. Web-Auth-With-Flask: Web authentication under flask framework using `flask-login` module.  
 [Try it out](https://replit.com/@jaycka/web-auth-flask?v=1)  
 ![web-auth-flask](https://github.com/jaycka/python3-projects/blob/main/img/web-auth-with-flask.gif?raw=true)  
+
+29. Clean-blog-full-features-Flask: A simple fully responsive blog website built using Python Flask Framework.  
+Features includes:  
+-post: create/edit/delete;  
+-user: register/login/logout;  
+-layout: responsive to view size and user status(logged in/ admin/ not logged in);  
+-comment: logged in user commenting;  
+-contact: automatically sending email;  
+Modules:
+`Flask`+`Flask-SQLAlchemy`+`flask-login`+`Flask-CKeditor`+`bootstrap-flask`+`Flask-WTF`+`Flask-Gravatar`+`bleach`  
+[Try it out](https://replit.com/@jaycka/simple-blog-with-users?v=1)  
+![clean-blog-full-features](https://github.com/jaycka/python3-projects/blob/main/img/simple-blog-full-feature-flask.gif?raw=true)  
