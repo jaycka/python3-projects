@@ -126,3 +126,7 @@ Modules:
 `Flask`+`Flask-SQLAlchemy`+`flask-login`+`Flask-CKeditor`+`bootstrap-flask`+`Flask-WTF`+`Flask-Gravatar`+`bleach`  
 [Try it out](https://replit.com/@jaycka/simple-blog-with-users?v=1)  
 ![clean-blog-full-features](https://github.com/jaycka/python3-projects/blob/main/img/simple-blog-full-feature-flask.gif?raw=true)  
+
+30. Payscale.com-Scraper: A python scraper script that will scrape all data on payscale.com into local .csv file, using `requests` and `beautifulsoup4` modules.  
+[Try it out](https://replit.com/@jaycka/payscalecom-scraper?v=1)  
+![scraper](https://github.com/jaycka/python3-projects/blob/main/img/paysclae-scraper.gif?raw=true)  
