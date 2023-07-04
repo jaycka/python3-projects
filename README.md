@@ -130,3 +130,7 @@ Modules:
 30. Payscale.com-Scraper: A python scraper script that will scrape all data on payscale.com into local .csv file, using `requests` and `beautifulsoup4` modules.  
 [Try it out](https://replit.com/@jaycka/payscalecom-scraper?v=1)  
 ![scraper](https://github.com/jaycka/python3-projects/blob/main/img/paysclae-scraper.gif?raw=true)  
+
+31. Day71-data-science-pandas: Learn the basic concept and functions of `pandas` module, get used to `.ipynb` notebook enviroment.  
+[Try it out](https://colab.research.google.com/drive/1M6zKkEcVuUa2faFtK4MkyPiDTF_oS-PD?usp=sharing)  
+![day71-pandas-colab](https://github.com/jaycka/python3-projects/blob/main/img/day71-data-science.gif?raw=true)  
