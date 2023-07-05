@@ -134,3 +134,8 @@ Modules:
 31. Day71-data-science-pandas: Learn the basic concept and functions of `pandas` module, get used to `.ipynb` notebook enviroment.  
 [Try it out](https://colab.research.google.com/drive/1M6zKkEcVuUa2faFtK4MkyPiDTF_oS-PD?usp=sharing)  
 ![day71-pandas-colab](https://github.com/jaycka/python3-projects/blob/main/img/day71-data-science.gif?raw=true)  
+
+32. Day72-data-visualization-matplotlib: Performed EDA on dataset using `pandas` then learn the basic functions and methods of `matplotlib` lib, analyze programming language trends using StackExchange query data.  
+[Try it out](https://drive.google.com/file/d/1C3OMvA91AJRjeIzuL8IdmQso2xnuuAfV/view?usp=sharing)  
+![notebook](./img/day72-data-viz1.gif)  
+![popularity](./img/day72-data-viz.gif)  
