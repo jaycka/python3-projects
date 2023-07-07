@@ -143,3 +143,7 @@ Modules:
 33. Day73-aggregate-and-merge-data-with-pandas: Diving deep into a dataset all about LEGO, which will help us answer a whole bunch of interesting questions about the history of the company, their product offering, and which LEGO set rules them all. Keep diving into `pandas` module and learning `agg`, `groupby`, `merge` methods and how to format and beautify MD file with HTML.  
 [Try it out](https://colab.research.google.com/drive/1tRpyl94MWhNTMm5ouAW5AQ4o1jqqU4wN?usp=sharing)  
 ![day-73](./img/day73-data-science.gif)  
+
+34. Day74-resampling-and-visualizing-time-series-data: Investigate how search volume for various topics related to their prices or values, through `pandas` and `matplotlib` libraries.  
+[Try it out](https://colab.research.google.com/drive/1iN3VAcKX6VeBty6cvGNEzNnANiHa_ORf?usp=sharing)  
+![day-74](./img/day74-resampling-and-visualising-time-series-data.gif)  
