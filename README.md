@@ -131,7 +131,7 @@ Modules:
 [Try it out](https://replit.com/@jaycka/payscalecom-scraper?v=1)  
 ![scraper](https://github.com/jaycka/python3-projects/blob/main/img/paysclae-scraper.gif?raw=true)  
 
-31. Day71-data-science-pandas: Learn the basic concept and functions of `pandas` module, get used to `.ipynb` notebook enviroment.  
+31. Day71-data-exploration-with-pandas: Learn the basic concept and functions of `pandas` module, get used to `.ipynb` notebook enviroment.  
 [Try it out](https://colab.research.google.com/drive/1M6zKkEcVuUa2faFtK4MkyPiDTF_oS-PD?usp=sharing)  
 ![day71-pandas-colab](https://github.com/jaycka/python3-projects/blob/main/img/day71-data-science.gif?raw=true)  
 
@@ -140,6 +140,6 @@ Modules:
 ![notebook](./img/day72-data-viz1.gif)  
 ![popularity](./img/day72-data-viz.gif)  
 
-33. Day73-data-science-pandas-pt3: Diving deep into a dataset all about LEGO, which will help us answer a whole bunch of interesting questions about the history of the company, their product offering, and which LEGO set rules them all. Keep diving into `pandas` module and learning `agg`, `groupby`, `merge` methods and how to format and beautify MD file with HTML.  
+33. Day73-aggregate-and-merge-data-with-pandas: Diving deep into a dataset all about LEGO, which will help us answer a whole bunch of interesting questions about the history of the company, their product offering, and which LEGO set rules them all. Keep diving into `pandas` module and learning `agg`, `groupby`, `merge` methods and how to format and beautify MD file with HTML.  
 [Try it out](https://colab.research.google.com/drive/1tRpyl94MWhNTMm5ouAW5AQ4o1jqqU4wN?usp=sharing)  
 ![day-73](./img/day73-data-science.gif)  
