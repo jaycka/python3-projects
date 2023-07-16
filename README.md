@@ -1,4 +1,4 @@
-# Learning Python3 with projects  
+# Learning Python3 with Projects  
 Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Python Pro Bootcamp for 2023](https://www.udemy.com/course/100-days-of-code)
 
 ## Projects
@@ -117,12 +117,13 @@ Here are my python3 projects following [Udemy: 100 Days of Code: The Complete Py
 
 29. Clean-blog-full-features-Flask: A simple fully responsive blog website built using Python Flask Framework.  
 Features includes:  
--post: create/edit/delete;  
--user: register/login/logout;  
--layout: responsive to view size and user status(logged in/ admin/ not logged in);  
--comment: logged in user commenting;  
--contact: automatically sending email;  
-Modules:
+    * post: create/edit/delete;  
+    * user: register/login/logout;  
+    * layout: responsive to view size and user status(logged in/ admin/ not logged in);  
+    * comment: logged in user commenting;  
+    * contact: automatically sending email;  
+
+    Modules:
 `Flask`+`Flask-SQLAlchemy`+`flask-login`+`Flask-CKeditor`+`bootstrap-flask`+`Flask-WTF`+`Flask-Gravatar`+`bleach`  
 [Try it out](https://replit.com/@jaycka/simple-blog-with-users?v=1)  
 ![clean-blog-full-features](https://github.com/jaycka/python3-projects/blob/main/img/simple-blog-full-feature-flask.gif?raw=true)  
@@ -131,3 +132,14 @@ Modules:
 [Try it out](https://replit.com/@jaycka/payscalecom-scraper?v=1)  
 ![scraper](https://github.com/jaycka/python3-projects/blob/main/img/paysclae-scraper.gif?raw=true)  
 
+31. Morse-text-converter: A simple, clean and beautiful python implementation of classic Morse converter using `tkinter` module.  
+Features:  
+    * English to Morse Encode;
+    * Morse to English Decode;
+    * Real Time Display;
+    * Play Morse Code When Clicked;  
+
+    [Try it out](https://replit.com/@jaycka/Morse-text-converter?v=1)  
+    ![Morse-text-converter](./img/morse-text-converter.gif)  
+
+    
