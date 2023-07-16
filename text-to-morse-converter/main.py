@@ -65,6 +65,7 @@ window = Tk()
 window.config(padx=5, pady=5, bg='black')
 window.attributes('-alpha', '0.8')
 window.title('Text to Morse Code Converter')
+window.iconbitmap('morse-icon.ico')
 # window.overrideredirect(True)
 
 morse_code_label = {}
@@ -76,7 +77,7 @@ for _ in MORSE_CODE_DICT:
     i += 1
 
 english_text = Text(width=50, height=10)
-english_text.grid(row=4, column=0, columnspan=10)
+english_text.grid(row=4, column=0, columnspan=10,sticky='EW')
 english_text.insert('1.0', 'Enter English to Encode')
 window.rowconfigure(4, pad=10)
 english_text.bind('<KeyRelease>', english_to_morse)
@@ -86,7 +87,7 @@ english_text.bind('<KeyRelease>', english_to_morse)
 # window.rowconfigure(5, pad=10)
 
 morse_code = Text(width=50, height=10)
-morse_code.grid(row=5, column=0, columnspan=10)
+morse_code.grid(row=5, column=0, columnspan=10, sticky='EW')
 morse_code.insert('1.0', 'Enter Morse Code to Decode Separated by Space')
 window.rowconfigure(5, pad=10)
 morse_code.bind('<KeyRelease>', morse_to_english)
