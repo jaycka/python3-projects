@@ -143,4 +143,8 @@ Features:
     [LIVE DEMO](https://replit.com/@jaycka/Morse-text-converter?v=1)  
     ![Morse-text-converter](./img/morse-text-converter.gif)  
 
-    
+32. Tic-Tac-Toe: Classic Tic-Tac-Toe game with simple, clean and fully interactive GUI, written in python using `tkinter` module. Support two modes: vs. computer or vs. another human, also support choosing order if vs. computer selected.  
+[LIVE DEMO](https://replit.com/@jaycka/tic-tac-toe?v=1)  
+![pve](./img/tic-tac-toe1.gif)  
+![pvp](./img/tic-tac-toe2.gif)  
+
